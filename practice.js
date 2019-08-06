@@ -6,7 +6,10 @@
 //plus the value of the name parameter.
 
 //Code here
-asdklfjasdkf aslkdfj a;dsjf
+function greeting() {
+  
+}
+
 
 //////////////////PROBLEM 2////////////////////
 
