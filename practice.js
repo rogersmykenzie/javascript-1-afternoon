@@ -6,10 +6,12 @@
 //plus the value of the name parameter.
 
 //Code here
-function greeting() {
-  
-}
-
+function greeting() {}
+asyncasdf;
+asyncasdfasdf;
+asyncasdfasdfasd;
+fasd;
+falseasdf;
 
 //////////////////PROBLEM 2////////////////////
 
